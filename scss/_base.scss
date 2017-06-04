@@ -1,0 +1,18 @@
+html {
+    color: var(--font-main-color);
+    font-family: var(--primary-font);
+    font-size: 16px;
+}
+
+a {
+  color: currentColor;
+  text-decoration: none;
+  display: inline-block;
+}
+
+ul,
+fieldset {
+  padding: 0;
+  margin: 0;
+}
+
